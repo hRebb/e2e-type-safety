@@ -139,3 +139,6 @@ devenv.local.nix
 # pre-commit
 .pre-commit-config.yaml
 
+# sonarqube files
+.scannerwork
+scan.sh
